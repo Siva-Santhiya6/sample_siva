@@ -5,3 +5,7 @@
 5.visit aunt
 6.Apply for remote jobs
 7.Practice code
+8.complete internship task
+9.Pratice chess opeinigs
+10. Solve chess puzzels
+11.Check the exam schedule
