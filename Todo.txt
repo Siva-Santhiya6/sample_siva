@@ -8,4 +8,3 @@
 8.complete internship task
 9.Pratice chess opeinigs
 10. Solve chess puzzels
-11.Check the exam schedule
